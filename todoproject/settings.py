@@ -44,7 +44,7 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    "todos.apps.TodosConfig",
+    "todo.apps.TodoConfig",
     "rest_framework",
     "corsheaders"
 ]
